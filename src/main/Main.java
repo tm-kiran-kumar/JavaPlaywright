@@ -1,7 +1,8 @@
 package main;
 
 public class Main {
-    public static void main(String[] args) {
+    void main() {
+
         System.out.println("First Playwright Script");
     }
 }
